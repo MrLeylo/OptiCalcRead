@@ -3,10 +3,13 @@
                ------------
                January, 2016 version
                
+               
+This project is under development, it is NOT a final version! It's being tested under linux, if you want to try it under Windows, there must be added a modification of the code.               
+ 
 ------------
 Requirements
 ------------
-1)Install python interpreter on your computer
+1)Install python interpreter on your Linux OS
 2)Download the following databases:
 
 
