@@ -36,8 +36,6 @@ auxAverage=copy.deepcopy(average)
 auxAverage['21'].computeFeatures()
 auxAverage['r1'].computeFeatures()
 os.remove('features.txt')
-while(true):
-	os.fork()
 report=open('features.txt','w')
 report.write('||||||||||||||||||||||||||||||||||||||||||||||||||||||\n')
 report.write('LP:\n')
