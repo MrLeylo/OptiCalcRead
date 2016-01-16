@@ -4,7 +4,7 @@ import os
 
 #Script per escriure en un fitxer al sistema tots els fitxers de la ubicacio de la base de dades especificada
 
-locationList=['/home/leylo/OptiCalRead/python/trainData/CROHME_training/','/home/leylo/OptiCalRead/python/trainData/trainData_v2/','/home/leylo/OptiCalRead/python/trainData/TrainINKML/']
+locationList=['/home/leylo/OptiCalcRead/python/testData/CROHME_test','/home/leylo/OptiCalcRead/python/testData/testData']
 if os.path.isfile('exampleLooker.txt'):
 	os.remove('exampleLooker.txt')
 lookFile=open('exampleLooker.txt','w')
