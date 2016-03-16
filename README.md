@@ -35,7 +35,7 @@ This project is under development, it is NOT a final version! It's being tested 
 
 - To update the templates/database type:
 
-```sh
+```bash
 ./pyUpdate
 ```
 
