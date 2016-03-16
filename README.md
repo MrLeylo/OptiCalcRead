@@ -16,7 +16,7 @@ This project is under development, it is NOT a final version! It's being tested 
 - Install python interpreter on your Linux OS
 - Download the following database:
 
-http://www.isical.ac.in/~crohme/ICFHR_package.zip
+   http://www.isical.ac.in/~crohme/ICFHR_package.zip
 
 - Uncompress the .zip on a folder called ICFHR_package
 - Uncompress the ICFHR_package/CROHME2012_data/trainData/trainData.zip on a folder called trainData on the same path
@@ -33,20 +33,20 @@ http://www.isical.ac.in/~crohme/ICFHR_package.zip
 
 - To update the templates/database type:
 
-./pyUpdate
+   ./pyUpdate
 
 - To update feature ponderations once we have templates type:
 
-./storeDataConc
+   ./storeDataConc
 
 - To compute over an .inkml file once we have templates and we have the features ponderated type:
 
-./overAll <filename>
+   ./overAll <filename>
 
 - To create a list of testing files type:
 
-./pyLook
+   ./pyLook
 
 - To compute over the database  once we have templates, we have the features ponderated and we have a list of testing files type:
 
-./seeAll
+   ./seeAll
