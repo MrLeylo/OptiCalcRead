@@ -14,10 +14,7 @@ This project is under development, it is NOT a final version! It's being tested 
 ##Requirements
 
 - Install python interpreter on your Linux OS
-- Download the following database:
-
-   http://www.isical.ac.in/~crohme/ICFHR_package.zip
-
+- Download the following [database](http://www.isical.ac.in/~crohme/ICFHR_package.zip)
 - Uncompress the .zip on a folder called ICFHR_package
 - Uncompress the ICFHR_package/CROHME2012_data/trainData/trainData.zip on a folder called trainData on the same path
 - Uncompress the ICFHR_package/CROHME2012_data/testData/testData.zip on a folder called testData on the same path
