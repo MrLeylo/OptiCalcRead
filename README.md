@@ -20,9 +20,9 @@ This project is under development, it is NOT a final version! It's being tested 
 
 - Install python interpreter on your Linux OS
 - Download the following [database](http://www.isical.ac.in/~crohme/ICFHR_package.zip)
-- Uncompress the .zip on a folder called ICFHR_package
-- Uncompress the **ICFHR_package/CROHME2012_data/trainData/trainData.zip** on a folder called trainData on the same path
-- Uncompress the **ICFHR_package/CROHME2012_data/testData/testData.zip** on a folder called testData on the same path
+- Uncompress the .zip on a folder called **ICFHR_package**
+- Uncompress the **ICFHR_package/CROHME2012_data/trainData/trainData.zip** on a folder called **trainData** on the same path
+- Uncompress the **ICFHR_package/CROHME2012_data/testData/testData.zip** on a folder called **testData** on the same path
 - Create a folder called **trainData**
 - Create a folder called **testData**
 - Copy the folder from the path **ICFHR_package/CROHME2011_data/CROHME_training** to **trainData** (so its new path is **trainData/CROHME_training**)
