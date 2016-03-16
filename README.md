@@ -33,20 +33,29 @@ This project is under development, it is NOT a final version! It's being tested 
 
 - To update the templates/database type:
 
-   ./pyUpdate
+```bash
+./pyUpdate
+```
 
 - To update feature ponderations once we have templates type:
 
-   ./storeDataConc
+```bash
+./storeDataConc
+```
 
 - To compute over an .inkml file once we have templates and we have the features ponderated type:
 
-   ./overAll <filename>
+```bash
+./overAll <filename>
+```
 
 - To create a list of testing files type:
-
-   ./pyLook
+```bash
+./pyLook
+```
 
 - To compute over the database  once we have templates, we have the features ponderated and we have a list of testing files type:
 
-   ./seeAll
+```bash
+./seeAll
+```
