@@ -2,6 +2,11 @@
 
  January, 2016 version
 
+* [Overview](#overview)
+* [Note](#note)
+* [Requirements](#requirements)
+* [Commands](#commands)
+
 ##Overview
 
 This project has born during my TFG. The idea is to develop from the scratch a system able to recognize a mathematical expression from the digital ink data captured by a tactile input device, what is called an Online Handwritten OCR (Optical Character Reader) for mathematical expressions.
